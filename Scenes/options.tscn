@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://ddrarx4hntstu"]
 
 [ext_resource type="Texture2D" uid="uid://c5t03l7jentxf" path="res://Assets/AchMilSalmBeauty.png" id="1_rfqw6"]
-[ext_resource type="PackedScene" uid="uid://xdin34owfeoc" path="res://Scene/MenuButton.tscn" id="2_86cc2"]
+[ext_resource type="PackedScene" uid="uid://xdin34owfeoc" path="res://Scenes/MenuButton.tscn" id="2_86cc2"]
 
 [node name="Options" type="Node2D"]
 

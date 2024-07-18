@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://cv7ck1o4slk4f"]
 
-[ext_resource type="Script" path="res://Scene/Health Container.gd" id="1_omcg4"]
+[ext_resource type="Script" path="res://Scenes/Health Container.gd" id="1_omcg4"]
 
 [node name="healthContainer" type="HBoxContainer"]
 offset_right = 422.0
